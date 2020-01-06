@@ -1,0 +1,75 @@
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\Satis.exe.config
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\Satis.exe
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\Satis.pdb
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.csprojAssemblyReference.cache
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.Form1.resources
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.Form2.resources
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.Properties.Resources.resources
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.csproj.GenerateResource.cache
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.csproj.CopyComplete
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.exe
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.pdb
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.ProductForm.resources
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.SupplierForm.resources
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CashierForm.resources
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CustomerForm.resources
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CategoryForm.resources
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.StockForm.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\Satis.exe.config
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\Satis.exe
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\Satis.pdb
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\EntityFramework.dll
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\EntityFramework.xml
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.csprojAssemblyReference.cache
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CategoryForm.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.ProductForm.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.StockForm.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.SupplierForm.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.Form1.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.Form2.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CashierForm.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CustomerForm.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.Properties.Resources.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.csproj.GenerateResource.cache
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.csproj.CopyComplete
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.exe
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.pdb
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CashierLoginForm.resources
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CustomerSearchForm.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CashierLoginForm.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CustomerSearchForm.resources
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.ReceiptForm.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.ReceiptForm.resources
+C:\Users\EDA_01\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.ReportForm.resources
+C:\Users\Wissen\Desktop\SatisUygulaması\Satis\Satis\obj\Debug\Satis.ReportForm.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\bin\Debug\Satis.exe.config
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\bin\Debug\Satis.exe
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\bin\Debug\Satis.pdb
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\bin\Debug\EntityFramework.dll
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\bin\Debug\EntityFramework.xml
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.csprojAssemblyReference.cache
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CashierLoginForm.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CategoryForm.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CustomerSearchForm.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.ProductForm.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.ReceiptForm.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.ReportForm.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.StockForm.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.SupplierForm.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.Form1.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.Form2.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CashierForm.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.CustomerForm.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.Properties.Resources.resources
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.csproj.GenerateResource.cache
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.csproj.CopyComplete
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.exe
+C:\Users\EDA_01\Desktop\Yeni klasör (7)\SatisUygulaması\Satis\Satis\obj\Debug\Satis.pdb

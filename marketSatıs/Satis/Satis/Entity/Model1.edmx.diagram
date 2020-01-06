@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9532a9db3fcb4e7f8dad81fad45e228d" Name="Diagram1">
+        <EntityTypeShape EntityType="SatisModel.Cashier" Width="1.5" PointX="0.75" PointY="8.25" />
+        <EntityTypeShape EntityType="SatisModel.Category" Width="1.5" PointX="0.75" PointY="4" />
+        <EntityTypeShape EntityType="SatisModel.Customer" Width="1.5" PointX="0.75" PointY="12.125" />
+        <EntityTypeShape EntityType="SatisModel.Order" Width="1.5" PointX="3" PointY="10.125" />
+        <EntityTypeShape EntityType="SatisModel.OrderDetail" Width="1.5" PointX="5.25" PointY="3.75" />
+        <EntityTypeShape EntityType="SatisModel.Product" Width="1.5" PointX="3" PointY="3.125" />
+        <EntityTypeShape EntityType="SatisModel.Stock" Width="1.5" PointX="5.25" PointY="7" />
+        <EntityTypeShape EntityType="SatisModel.Supplier" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="SatisModel.Users" Width="1.5" PointX="7.75" PointY="2" />
+        <AssociationConnector Association="SatisModel.FK_TblSiparis_TblKasiyer" />
+        <AssociationConnector Association="SatisModel.FK_TblUrun_TblKategori" />
+        <AssociationConnector Association="SatisModel.FK_TblSiparis_TblMüsteri" />
+        <AssociationConnector Association="SatisModel.FK_TblSiparisDetay_TblSiparis" />
+        <AssociationConnector Association="SatisModel.FK_TblSiparisDetay_TblUrun" />
+        <AssociationConnector Association="SatisModel.FK_TblStok_TblUrun" />
+        <AssociationConnector Association="SatisModel.FK_TblUrun_TblSatici" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
